@@ -1,0 +1,11 @@
+.container{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    opacity: rgba(255, 255, 255, 0.9);
+}
+
+img{
+    margin-top: 200px;
+    transform: scaleX(-1);
+}
